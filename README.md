@@ -1,5 +1,5 @@
 
 ### Used tech stack:
-Python 
-Prompt engineering
-ChatGPT4
+- Python 
+- Prompt engineering
+- ChatGPT4
