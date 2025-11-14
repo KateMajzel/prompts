@@ -6,5 +6,7 @@ A comprehensive prompt engineering initiative focused on designing, testing, and
 🛠️ **Technology Stack**
 
 Python - Scripting and automation framework
+
 ChatGPT-4 - OpenAI's advanced language model
+
 Prompt Engineering - Core methodology and best practices
